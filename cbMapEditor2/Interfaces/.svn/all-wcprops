@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/cbtileseditor/!svn/ver/17/cbMapEditor2/Interfaces
+END
+Map.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cbtileseditor/!svn/ver/12/cbMapEditor2/Interfaces/Map.cs
+END
+MapOperations.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cbtileseditor/!svn/ver/17/cbMapEditor2/Interfaces/MapOperations.cs
+END
+MapEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cbtileseditor/!svn/ver/17/cbMapEditor2/Interfaces/MapEvents.cs
+END
+TilePosition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cbtileseditor/!svn/ver/12/cbMapEditor2/Interfaces/TilePosition.cs
+END
+MapIO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cbtileseditor/!svn/ver/17/cbMapEditor2/Interfaces/MapIO.cs
+END
